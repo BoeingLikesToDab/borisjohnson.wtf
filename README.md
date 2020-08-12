@@ -10,3 +10,8 @@ Please [register to vote](https://www.gov.uk/register-to-vote) for the upcoming,
 ## PR Guideline
 
 Please, please, attribute your changes to at least two reliable sources. No rumours or leaks unless they have been confirmed by an official source as being legitimate.
+
+## Some Information
+
+Boris Johnson is the current Prime Minister of the UK (as of August 2020, period is 2019-). He succeeded Theresa May.
+TO BE CONTINUED
